@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <windows.h>
 
-extern "C" int MyProc1(int a, int b);
+//extern "C" int MyProc1(int a, int b);
 
 
 int main()
