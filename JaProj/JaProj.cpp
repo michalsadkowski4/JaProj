@@ -13,5 +13,6 @@ int main()
     MyProc1Func MyProc1 = (MyProc1Func)GetProcAddress(hDLL, "MyProc1");
     int result = MyProc1(x, y);
     std::cout << result;
+    FreeLibrary(hDLL);
 }
 
