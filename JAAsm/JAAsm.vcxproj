@@ -24,6 +24,9 @@
   <ItemGroup>
     <None Include="JAAsm.def" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="JAAsm.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

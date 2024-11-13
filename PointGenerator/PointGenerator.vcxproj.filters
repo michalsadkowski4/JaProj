@@ -15,18 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="JAAsm.asm">
+    <ClCompile Include="PointGenerator.cpp">
       <Filter>Pliki źródłowe</Filter>
-    </MASM>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="JAAsm.def">
-      <Filter>Pliki źródłowe</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="JAAsm.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>
