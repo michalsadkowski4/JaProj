@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/JaProj/ConvexHullCalculator.cpp
+/JaProj/ConvexHullCalculator.h
+/JaProj/VectorOperations.cpp
+/JaProj/VectorOperations.h
+/.gitignore
+/.gitignore
+/.gitignore
+/.gitignore
